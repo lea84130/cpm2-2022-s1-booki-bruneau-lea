@@ -20,7 +20,54 @@ body{
 .haut{
 	 width: 100%;
 	 display: flex;
-  	justify-content: space-between;
-  	align-items: center;
+   justify-content: space-between;
+   align-items: center;
 }
 
+
+.texte{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 60%;
+}
+
+.texte1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid transparent;
+  width: 140px;
+  height: 99px;
+}
+
+.texte2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid transparent;
+  width: 140px;
+  height: 99px;
+}
+
+.texte1:hover{
+    border-top: 1px solid #0065fc;
+    cursor: pointer;
+}
+
+.texte1:hover a{
+  color: #0065fc
+}
+
+.texte2:hover{
+  border-top: 1px solid #0065fc;
+  cursor: pointer;
+}
+
+.texte2:hover a{
+  color: #0065fc
+}
+.texte a{
+  color: black;
+  text-decoration: none;
+}
