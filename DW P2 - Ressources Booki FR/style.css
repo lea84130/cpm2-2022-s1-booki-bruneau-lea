@@ -603,3 +603,41 @@ body{
   width: 95%;
   height: 70px;
 }
+
+.activite2{
+  width: 23%;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.illustration2{
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+  display: flex;
+  flex-directiion: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.illustration2:hover{
+  cursor: pointer;
+  transform: scale(1.03);
+}
+.img-activites2 {
+  object-fit: cover;
+  width: 100%;
+  height: 250px;
+  border-radius: 15px 15px 0 0;
+}
+
+.titreB{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 5%;
+  width: 95%;
+  height: 70px;
+}
