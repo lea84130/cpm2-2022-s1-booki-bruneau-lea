@@ -303,3 +303,145 @@ body{
  .cube1{
   width: 90%;
  }
+
+.cube2{
+  width: 90%;
+}
+
+.image2{
+  width: 30%;
+  height: auto;
+  background-color: white;
+  padding: 1%;
+  border-radius: 20px;
+  /* rajouter pour voir en version mobile et desktop */
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+.image2:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.img-hebergements2 {
+  object-fit: cover;
+  width: 100%;
+  height: 120px;
+  border-radius: 15px 15px 0 0;
+}
+
+.image3{
+  width: 30%;
+  height: auto;
+  background-color: white;
+  padding: 1%;
+  border-radius: 20px;
+  /* rajouter pour voir en version mobile et desktop */
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+.image3:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.img-hebergements3 {
+  object-fit: cover;
+  width: 100%;
+  height: 120px;
+  border-radius: 15px 15px 0 0;
+}
+
+.cube3{
+  width: 90%;
+}
+
+.bloc2 {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image4{
+  width: 30%;
+  height: auto;
+  background-color: white;
+  padding: 1%;
+  border-radius: 20px;
+  /* rajouter pour voir en version mobile et desktop */
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+.image4:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.img-hebergements4 {
+  object-fit: cover;
+  width: 100%;
+  height: 120px;
+  border-radius: 15px 15px 0 0;
+
+ }
+
+ .cube4{
+  width: 90%;
+ }
+
+.cube5{
+  width: 90%;
+}
+
+.image5{
+  width: 30%;
+  height: auto;
+  background-color: white;
+  padding: 1%;
+  border-radius: 20px;
+  /* rajouter pour voir en version mobile et desktop */
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+.image5:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.img-hebergements5{
+  object-fit: cover;
+  width: 100%;
+  height: 120px;
+  border-radius: 15px 15px 0 0;
+}
+
+.image6{
+  width: 30%;
+  height: auto;
+  background-color: white;
+  padding: 1%;
+  border-radius: 20px;
+  /* rajouter pour voir en version mobile et desktop */
+  box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+.image6:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.img-hebergements6 {
+  object-fit: cover;
+  width: 100%;
+  height: 120px;
+  border-radius: 15px 15px 0 0;
+}
+
+.cube6{
+  width: 90%;
+}
+
+.afficher{
+  font-weight: bold;
+}
