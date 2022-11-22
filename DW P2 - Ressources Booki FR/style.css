@@ -770,3 +770,44 @@ body{
   width: 95%;
   height: 70px;
 }
+
+.footer{
+  height: 300px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.partie{
+  height: 150px;
+  margin-left: 5%;
+}
+
+.lien{
+  height: 30px;
+}
+
+.fonctionnement{
+  color: black;
+  text-decoration: none;
+}
+
+.lien2{
+  height: 30px;
+}
+
+.conditions{
+  color: black;
+  text-decoration: none;
+}
+
+.lien3{
+  height: 30px;
+}
+
+.donnees{
+  color: black;
+  text-decoration: none;
+}
+
