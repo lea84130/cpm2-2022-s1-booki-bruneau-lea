@@ -1066,3 +1066,131 @@ body{
   }
 }
 
+@media screen and (max-width: 600px) {
+
+.texte1 {
+    flex-direction: row;
+  }
+
+.texte2 {
+    flex-direction: row;
+  }
+
+.texte {
+    order: 1;
+    width: 100%;
+    margin-left: 0;
+  }
+.texte1 {
+    width: 50%;
+    border-top: 0;
+    border-bottom: 5px solid #f2f2f2;
+  }
+
+.texte2 {
+    width: 50%;
+    border-top: 0;
+    border-bottom: 5px solid #f2f2f2;
+  }
+
+.haut {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+.texte1:hover {
+    border-top: 0;
+    border-bottom: 5px solid #0065fc;
+  }
+
+.texte2:hover {
+    border-top: 0;
+    border-bottom: 5px solid #0065fc;
+  }
+
+.icone {
+    width: auto;
+    border: none;
+  }
+
+.ville {
+    width: 200px;
+    border-bottom: 1px solid #f2f2f2;
+    border-top: 1px solid #f2f2f2;
+  }
+  
+.bouton {
+    width: 50px;
+    border-radius: 15px;
+  }
+
+.recherche {
+    display: none;
+  }
+
+.filtres {
+    padding-left: 5%;
+  }
+
+.icone2 {
+    margin-right: 5px;
+  }
+
+.icone3 {
+    margin-right: 0;
+  }
+
+.economiques {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+.familiales {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+.romantiques {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+.animaux {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+.info {
+    padding-left: 5%;
+  }
+
+.cotedroit {
+    border-radius: 0;
+  }
+
+.types {
+    background-color: white;
+  }
+
+.logo {
+    padding-left: 5%;
+  }
+
+.titre {
+    padding-left: 5%;
+  }
+
+.activite {
+    padding-left: 5%;
+  }
+
+.activite1 {
+    padding: 5%;
+    width: 90%;
+  }
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+}
