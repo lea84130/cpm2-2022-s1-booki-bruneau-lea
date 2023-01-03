@@ -873,10 +873,7 @@
     flex-direction: column;
     margin-top: 0;
   }
-.cotedroit{
-   flex-direction: column;
-  margin-top: 0;
-}
+
   .image1 {
     width: 100%;
     margin-bottom: 50px;
@@ -944,7 +941,7 @@
   .cotedroit{
     flex-direction: column;
     height: auto;
-}
+  }
 
   .illustration1 {
     width: 100%;
