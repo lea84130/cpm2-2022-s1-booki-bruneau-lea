@@ -1,5 +1,5 @@
   body{
-    font-family: 'Raleway';
+   font-family: 'Raleway';
   }
 
 
@@ -183,7 +183,7 @@
   height: 30px;
   border-radius: 30px;
   margin-right: 20px;
-  
+
 }
 
 .familiales{
@@ -296,7 +296,6 @@
   background-color: white;
   padding: 1%;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px 1px #f2f2f2;
 }
 
 .image1:hover{
@@ -308,8 +307,6 @@
   object-fit: cover;
   width: 100%;
   height: 120px;
-  border-radius: 15px 15px 0 0;
-
 }
 
 .cube1{
@@ -326,7 +323,6 @@
   background-color: white;
   padding: 1%;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px 1px #f2f2f2;
 }
 
 .image2:hover{
@@ -347,7 +343,6 @@
   background-color: white;
   padding: 1%;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px 1px #f2f2f2;
 }
 
 .image3:hover{
@@ -379,7 +374,6 @@
   background-color: white;
   padding: 1%;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px 1px #f2f2f2;
 }
 
 .image4:hover{
@@ -409,7 +403,6 @@
   background-color: white;
   padding: 1%;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px 1px #f2f2f2;
 }
 
 .image5:hover{
@@ -430,7 +423,6 @@
   background-color: white;
   padding: 1%;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px 1px #f2f2f2;
 }
 
 .image6:hover{
@@ -915,7 +907,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  
+
   .haut {
     width: 90%;
   }
@@ -1113,7 +1105,7 @@
     border-bottom: 1px solid #f2f2f2;
     border-top: 1px solid #f2f2f2;
   }
-  
+
   .bouton {
     width: 50px;
     border-radius: 15px;
