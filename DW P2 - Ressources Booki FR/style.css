@@ -1,30 +1,30 @@
   body{
    font-family: 'Raleway';
-  }
-
-
-  .header{
-    height: auto;
-  }
-
-  .logo img{
-    width: 70px;
-    height: 30px;
-  }
-
-  .logobooki{
-   margin-bottom: 7px;
  }
 
 
- .haut{
-   width: 100%;
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
- }
+ .header{
+  height: auto;
+}
 
- .texte{
+.logo img{
+  width: 70px;
+  height: 30px;
+}
+
+.logobooki{
+ margin-bottom: 7px;
+}
+
+
+.haut{
+ width: 100%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.texte{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -236,17 +236,6 @@
  border-radius: 0 25px 25px 0;
 }
 
-.mobile2{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.mobile2 i{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
 
 .info{
   display: flex;
